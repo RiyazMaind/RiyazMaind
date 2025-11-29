@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @RiyazMaind
+# Hi, I'm Riyaz Maind
 
-- 📫 How to reach me ...
-  riyazmaind@gmail.com
+Welcome to my GitHub profile.
 
-<!---
-RiyazMaind/RiyazMaind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- Aspiring Data Scientist and Machine Learning Engineer  
+- Interested in machine learning, LLMs, data analysis, and AI automation  
+- Focused on building practical, end-to-end AI/ML solutions  
+- Currently working on:  
+  - LLM-powered assistants  
+  - Kaggle machine learning competitions  
+  - AI/ML research and deployment projects  
+
+## Contact
+- Email: riyazmaind@gmail.com  
+
+---
+
+Always learning. Always building.
